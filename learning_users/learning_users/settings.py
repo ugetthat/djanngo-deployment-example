@@ -29,7 +29,7 @@ SECRET_KEY = 'b0hbk&xlv#q@$26eg-ic#g)%9y0ju62idq4+7-_d%sm$xjb9#c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ugetthat.pythonanywhere.com]
 
 
 # Application definition
